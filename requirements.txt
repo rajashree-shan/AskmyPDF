@@ -1,0 +1,4 @@
+gradio
+pdfplumber
+pymupdf
+openai>=1.0.0
